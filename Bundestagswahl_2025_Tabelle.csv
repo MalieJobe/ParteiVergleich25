@@ -1,49 +1,31 @@
-Thema;Linke;Grüne;SPD;FDP;BSW;CDU;AfD
-Energie;;;;;;;
-Ausbau erneuerbarer Energien;Pro;Pro;Pro;Pro;Pro;Pro;Kontra
-Nutzung fossiler Energien;Kontra;Kontra;Neutral;Pro;Pro;Pro;Pro
-Förderung von Kernkraft;Kontra;Kontra;Kontra;Pro;Pro;Pro;Pro
-Senkung der Stromsteuer;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Abschaffung der CO2-Abgabe;Kontra;Kontra;Kontra;Pro;Pro;Pro;Pro
-Soziales und Arbeit;;;;;;;
-Erhöhung des Mindestlohns;Pro;Pro;Pro;Kontra;Pro;Neutral;Kontra
-Einführung eines Bürgergelds;Pro;Pro;Pro;Kontra;Neutral;Kontra;Kontra
-Förderung der Kinderbetreuung;Pro;Pro;Pro;Pro;Pro;Pro;Kontra
-Maßnahmen gegen Altersarmut;Pro;Pro;Pro;Pro;Pro;Pro;Neutral
-Gleichstellung von Frauen;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra
-Wirtschaft;;;;;;;
-Steuerreform (Vermögenssteuer);Pro;Pro;Neutral;Kontra;Neutral;Kontra;Kontra
-Förderung von Mittelstand;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Technologieförderung;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Klima und Umwelt;;;;;;;
-Schutz von Mooren und Wäldern;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra
-Förderung von Kreislaufwirtsch;Pro;Pro;Pro;Pro;Pro;Pro;Kontra
-Außenpolitik;;;;;;;
-Unterstützung der Ukraine;Neutral;Pro;Pro;Pro;Pro;Pro;Kontra
-Verschärfung der Asylpolitik;Kontra;Kontra;Kontra;Pro;Neutral;Pro;Pro
-Digitalisierung in Schulen;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Ausbau des Schienenverkehrs;Pro;Pro;Pro;Pro;Pro;Pro;Neutral
-Förderung von E-Mobilität;Pro;Pro;Pro;Pro;Pro;Pro;Kontra
-Maßnahmen gegen Cyberangriffe;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Einhaltung der Schuldenbremse;Kontra;Neutral;Neutral;Pro;Neutral;Pro;Pro
-Einführung von Kryptowährungen;Kontra;Kontra;Kontra;Pro;Neutral;Neutral;Pro
-Ausbau der Wasserstoffwirtschaft;Pro;Pro;Pro;Pro;Pro;Pro;Kontra
-Subventionierung von Energiespeichern;Pro;Pro;Pro;Pro;Pro;Pro;Neutral
-Förderung von Offshore-Windenergie;Pro;Pro;Pro;Pro;Pro;Pro;Kontra
-Förderung von Solarenergie auf Dächern;Pro;Pro;Pro;Pro;Pro;Pro;Neutral
-Abschaffung von Subventionen für fossile Energien;Pro;Pro;Pro;Kontra;Neutral;Kontra;Kontra
-Einführung einer Vier-Tage-Woche;Pro;Pro;Neutral;Kontra;Neutral;Kontra;Kontra
-Begrenzung von Managergehältern;Pro;Pro;Pro;Neutral;Neutral;Kontra;Kontra
-Abschaffung von Sanktionen bei Sozialleistungen;Pro;Pro;Pro;Kontra;Neutral;Kontra;Kontra
-Einführung eines allgemeinen Grundeinkommens;Pro;Pro;Neutral;Kontra;Kontra;Kontra;Kontra
-Stärkung von Tarifverträgen;Pro;Pro;Pro;Neutral;Neutral;Pro;Kontra
-Ausbau von Fahrradwegen;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra
-Einführung eines kostenlosen ÖPNV;Pro;Pro;Pro;Kontra;Neutral;Neutral;Kontra
-Ausbau von Nachtzugverbindungen in Europa;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Einführung von E-Fuels im Verkehr;Pro;Pro;Neutral;Pro;Pro;Pro;Pro
-Förderung von autonomem Fahren;Pro;Pro;Pro;Pro;Pro;Pro;Pro
-Ausbau der Überwachung im öffentlichen Raum;Kontra;Neutral;Neutral;Pro;Neutral;Pro;Pro
-Stärkung der Präventionsarbeit gegen Extremismus;Pro;Pro;Pro;Pro;Pro;Pro;Neutral
-Einführung eines Paritätsgesetzes für Frauen;Pro;Pro;Pro;Neutral;Neutral;Pro;Kontra
-Legalisierung von Cannabis;Pro;Pro;Pro;Neutral;Neutral;Kontra;Kontra
-Einführung eines Rechts auf Homeoffice;Pro;Pro;Pro;Neutral;Pro;Pro;Neutral
+Thema;Kategorie;Linke;Grüne;SPD;FDP;BSW;CDU;AfD;;;;;;;
+Ausbau erneuerbarer Energien;Energie;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Nutzung fossiler Energien;Energie;Kontra;Kontra;Neutral;Pro;Pro;Pro;Pro;;;;;;;
+Förderung von Atomkraft;Energie;Kontra;Kontra;Kontra;Pro;Pro;Pro;Pro;;;;;;;
+Subventionierung von erneuerbaren Energien;Energie;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Kohleausstieg;Energie;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra;;;;;;;
+Energieeffizienz in Gebäuden;Energie;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Deutschlandticket;Verkehr und Transport;Pro;Pro;Pro;Pro;Pro;Unbekannt;Unbekannt;;;;;;;
+Verbrenner-Aus;Verkehr und Transport;Pro;Pro;Neutral;Kontra;Neutral;Neutral;Kontra;;;;;;;
+Ausbau von Radwegen;Verkehr und Transport;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra;;;;;;;
+Öffentlicher Personennahverkehr;Verkehr und Transport;Pro;Pro;Pro;Kontra;Pro;Neutral;Kontra;;;;;;;
+Erhöhung des Mindestlohns;Soziales und Arbeit;Pro;Pro;Pro;Kontra;Pro;Neutral;Kontra;;;;;;;
+Bürgergeld beibehalten;Soziales und Arbeit;Pro;Pro;Pro;Kontra;Neutral;Kontra;Kontra;;;;;;;
+Förderung der Kinderbetreuung;Soziales und Arbeit;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Maßnahmen gegen Altersarmut;Soziales und Arbeit;Pro;Pro;Pro;Pro;Pro;Pro;Neutral;;;;;;;
+Frauenquote;Soziales und Arbeit;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra;;;;;;;
+Einführung Millionärssteuer;Wirtschaft;Pro;Pro;Neutral;Kontra;Neutral;Kontra;Kontra;;;;;;;
+Förderung von Mittelstand;Wirtschaft;Pro;Pro;Pro;Pro;Pro;Pro;Pro;;;;;;;
+Digitalisierung;Wirtschaft;Pro;Pro;Pro;Pro;Pro;Pro;Pro;;;;;;;
+Steuerpolitik;Wirtschaft;Pro;Neutral;Pro;Kontra;Pro;Pro;Kontra;;;;;;;
+Schutz von Mooren und Wäldern;Klima und Umwelt;Pro;Pro;Pro;Neutral;Pro;Pro;Kontra;;;;;;;
+Förderung von Kreislaufwirtsch;Klima und Umwelt;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Verschärfung des Tierschutzes;Klima und Umwelt;Pro;Pro;Pro;Neutral;Pro;Pro;Neutral;;;;;;;
+Waffenlieferung an die Ukraine;Außenpolitik;Neutral;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Verschärfung der Asylpolitik;Außenpolitik;Kontra;Kontra;Kontra;Pro;Neutral;Pro;Pro;;;;;;;
+Asylverfahren beschleunigen;Außenpolitik;Pro;Neutral;Neutral;Pro;Pro;Pro;Kontra;;;;;;;
+Integration von Migranten;Außenpolitik;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Digitalisierung in Schulen;Digitalisierung;Pro;Pro;Pro;Pro;Pro;Pro;Pro;;;;;;;
+Ausbau des Schienenverkehrs;Verkehr und Transport;Pro;Pro;Pro;Pro;Pro;Pro;Neutral;;;;;;;
+Förderung von E-Mobilität;Verkehr und Transport;Pro;Pro;Pro;Pro;Pro;Pro;Kontra;;;;;;;
+Einhaltung der Schuldenbremse;Wirtschaft;Kontra;Neutral;Neutral;Pro;Neutral;Pro;Pro;;;;;;;
