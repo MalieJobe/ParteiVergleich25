@@ -1,7 +1,7 @@
 import Database from 'better-sqlite3';
 import { resolve } from 'path';
 
-const dbPath = resolve('server/assets/data.sqlite');
+const dbPath = resolve('server/assets/parties.sqlite3');
 const db = new Database(dbPath);
 
 export default defineEventHandler((event) => {
