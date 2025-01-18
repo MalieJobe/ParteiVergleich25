@@ -15,8 +15,8 @@
             <input
               v-model="searchQuery"
               type="text"
-              placeholder="Suchen..."
-              class="w-full p-1 text-sm border border-gray-300 rounded-lg focus:outline-none"
+              placeholder="Thema suchen..."
+              class="w-full p-1 font-normal border border-gray-300 rounded-lg focus:outline-none"
             />
           </th>
           <th v-for="party in parties" :key="party.name" class="p-2 border border-gray-300 h-10">
@@ -47,12 +47,18 @@
     </table>
 
     <!-- Quellenverzeichnis -->
-    <footer class="mt-8 text-center text-sm text-gray-600">
-      <h2 class="text-lg font-semibold mb-2">Quellen</h2>
+    <footer class="mt-8 text-sm text-gray-600">
+      <h2 class="text-lg font-semibold mb-2">Wahlprogramme</h2>
+      <h3 class="text-base mb-2">aufgerufen am <time datetime="2025-01-18">18.01.2025</time></h3>
       <ul>
-        <li>Partei 1: <a href="https://example.com" class="text-blue-500 hover:underline">Programm</a></li>
-        <li>Partei 2: <a href="https://example.com" class="text-blue-500 hover:underline">Programm</a></li>
-        <!-- Weitere Quellen hier hinzufügen -->
+        <li><a href="https://www.die-linke.de/fileadmin/1_Partei/parteitage/Au%C3%9Ferordentlicher_Parteitag_25/Wahlprogramm_Entwurf.pdf" class="text-blue-500 hover:underline">Die Linke</a></li>
+        <li><a href="https://cms.gruene.de/uploads/assets/20241216_BTW25_Programmentwurf_DINA4_digital.pdf" class="text-blue-500 hover:underline">Bündnis 90/Die Grünen</a></li>
+        <li><a href="https://www.spd.de/fileadmin/Dokumente/Beschluesse/Programm/2025_SPD_Regierungsprogramm.pdf" class="text-blue-500 hover:underline">SPD</a></li>
+        <li><a href="https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf" class="text-blue-500 hover:underline">FDP</a></li>
+        <li><a href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Wahlprogramme/BSW_Wahlprogramm_2025__Entwurf_.pdf" class="text-blue-500 hover:underline">BSW</a></li>
+        <li><a href="https://www.politikwechsel.cdu.de/sites/www.politikwechsel.cdu.de/files/docs/politikwechsel-fuer-deutschland-wahlprogramm-von-cdu-csu-1.pdf" class="text-blue-500 hover:underline">CDU/CSU</a></li>
+        <li><a href="https://www.afd.de/wp-content/uploads/2024/11/Leitantrag-Bundestagswahlprogramm-2025.pdf" class="text-blue-500 hover:underline">AfD</a></li>
+        
       </ul>
     </footer>
   </div>
